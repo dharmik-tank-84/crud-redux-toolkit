@@ -1,8 +1,15 @@
-# React + Vite
+# Hi, I'm Dharmik Tank 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🚀 About Me
+- 🎯 React Developer with 1 year of experience
+- 🌟 Passionate about building interactive and responsive web applications
+- 🧠 Currently learning Full Stack Developer and MERN Stack Developer
 
-Currently, two official plugins are available:
+### 💻 Tech Stack
+- **Frontend**: React.js, Next.js, HTML, CSS, SCSS, Bootstrap, Tailwind CSS
+- **Tools**: JSON Server, MongoDB Compass, Adobe Premiere Pro, Figma
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🌐 Let's Connect
+- [Portfolio](https://dharmik-tank.web.app/)
+- [LinkedIn](https://www.linkedin.com/in/dharmik-tank-395591256)
+- [Email Me](mailto:dharmiktank84@gmail.com)
